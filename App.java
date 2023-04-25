@@ -4,7 +4,9 @@ class App{
 		System.out.println("Hey! there i am using whatsapp");
 		System.out.println("Java"+10+20);
 
-		System.out.println("Login feature");
+		
+
+		System.out.println("Registration")
 
 	}
 }
